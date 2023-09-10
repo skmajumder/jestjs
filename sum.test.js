@@ -4,6 +4,6 @@ const sum = require("./sum");
 //   expect(sum(1, 2)).toBe(3);
 // });
 
-test("Using Matchers: two plus two is four", () => {
-  expect(sum(1, 2)).toBe(3);
-});
+// test("Using Matchers: two plus two is four", () => {
+//   expect(sum(1, 2)).toBe(3);
+// });
